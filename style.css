@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+    color: red;
+    text-align: center;
+    padding: 20px;
+
+  }
+
+  #colorBox {
+    width: 100px;
+    height: 150px;
+    border: 1px solid yellow;
+    padding-left: 200px;
+  }
